@@ -1,0 +1,106 @@
+.flex-box-container-1,.flex-box-rps,.flex-box-color-changer,.flex-blackjack-row-1,.flex-blackjack-row-2,.flex-blackjack-row-3{
+
+    display:flex;
+
+    border: 1px solid black;
+    padding:20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+
+.flex-blackjack-row-1,.flex-blackjack-row-2{
+/* background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bZkCVxKQosAIPOT-mjCuG5g3KRCQvpUA-w&usqp=CAU"); */
+background:url("https://www.publicdomainpictures.net/pictures/30000/velka/solid-green-background.jpg");
+/* background-image: url("solid-green-background.jpg");               */
+/* background: url("solid-green-background.jpg"); */
+color:#ffffff;
+
+}
+
+.flex-blackjack-row-1 div{
+
+border: 1px solid black;
+padding:10px;
+flex:1;
+text-align: center;
+height:375px;
+
+
+}
+.flex-blackjack-row-1 img{
+
+    width:25%;
+    padding:10px;
+}
+.flex-blackjack-row-2 button{
+
+    border:1px solid black;
+    padding:10px;
+}
+.flex-blackjack-row-2 div{
+
+    border:1px solid black;
+    padding:10px;
+}
+
+
+.flex-box-container-1 div{
+
+    display:flex;
+    
+    padding:10px;
+}
+.container-1,.container-5{
+    margin:10px auto;
+    width:75%;
+    text-align:center;
+
+    border: 1px solid black;
+}
+.flex-box-container-1 img{
+
+    
+    margin:20px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,0.7);
+    
+}
+.flex-box-rps img{
+
+    height:150px;
+    width:150px;
+
+}
+.flex-box-rps img:hover{
+    box-shadow: 0px 10px 50px rgba(37,50,233,1);
+
+    height:150px;
+    width:150px;
+    
+
+}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* css for blackjack */
+
+
+
+
+
+
+
+
+
+
+    table,th,td{
+
+padding:5px;
+border:1px solid black;
+
+    }
+
+
+
+
